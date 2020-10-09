@@ -4,3 +4,41 @@
 2020-10-08T15:13:12-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
 2020-10-08T15:13:12-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
 2020-10-08T15:13:12-0400 [INFO    ] backups2datalad.py Commiting changes
+2020-10-08T15:13:12-0400 [INFO    ] backups2datalad.py Creating GitHub sibling for 000025
+2020-10-08T15:13:12-0400 [INFO    ] backups2datalad.py Pushing to sibling
+2020-10-08T15:13:12-0400 [INFO    ] datalad.core.distributed.push Determine push target
+2020-10-08T15:13:12-0400 [INFO    ] datalad.core.distributed.push Push refspecs
+2020-10-08T15:13:12-0400 [INFO    ] datalad.core.distributed.push Transfer data
+2020-10-08T15:13:12-0400 [INFO    ] datalad.core.distributed.push Update availability information
+2020-10-08T15:13:14-0400 [INFO    ] datalad.gitrepo Start enumerating objects
+2020-10-08T15:13:14-0400 [INFO    ] datalad.gitrepo Finished enumerating objects
+2020-10-08T15:13:14-0400 [INFO    ] datalad.gitrepo Start counting objects
+2020-10-08T15:13:14-0400 [INFO    ] datalad.gitrepo Counting objects:  16% (1/6)
+2020-10-08T15:13:14-0400 [INFO    ] datalad.gitrepo Counting objects:  33% (2/6)
+2020-10-08T15:13:14-0400 [INFO    ] datalad.gitrepo Counting objects:  50% (3/6)
+2020-10-08T15:13:14-0400 [INFO    ] datalad.gitrepo Counting objects:  66% (4/6)
+2020-10-08T15:13:14-0400 [INFO    ] datalad.gitrepo Counting objects:  83% (5/6)
+2020-10-08T15:13:14-0400 [INFO    ] datalad.gitrepo Counting objects: 100% (6/6)
+2020-10-08T15:13:14-0400 [INFO    ] datalad.gitrepo Counting objects: 100% (6/6), done.
+2020-10-08T15:13:14-0400 [INFO    ] datalad.gitrepo Finished counting objects
+2020-10-08T15:13:14-0400 [INFO    ] datalad.gitrepo Start compressing objects
+2020-10-08T15:13:14-0400 [INFO    ] datalad.gitrepo Compressing objects:  25% (1/4)
+2020-10-08T15:13:14-0400 [INFO    ] datalad.gitrepo Compressing objects:  50% (2/4)
+2020-10-08T15:13:14-0400 [INFO    ] datalad.gitrepo Compressing objects:  75% (3/4)
+2020-10-08T15:13:14-0400 [INFO    ] datalad.gitrepo Compressing objects: 100% (4/4)
+2020-10-08T15:13:14-0400 [INFO    ] datalad.gitrepo Compressing objects: 100% (4/4), done.
+2020-10-08T15:13:14-0400 [INFO    ] datalad.gitrepo Finished compressing objects
+2020-10-08T15:13:14-0400 [INFO    ] datalad.gitrepo Start writing objects
+2020-10-08T15:13:14-0400 [INFO    ] datalad.gitrepo Writing objects:  20% (1/5)
+2020-10-08T15:13:14-0400 [INFO    ] datalad.gitrepo Writing objects:  40% (2/5)
+2020-10-08T15:13:14-0400 [INFO    ] datalad.gitrepo Writing objects:  60% (3/5)
+2020-10-08T15:13:14-0400 [INFO    ] datalad.gitrepo Writing objects:  80% (4/5)
+2020-10-08T15:13:14-0400 [INFO    ] datalad.gitrepo Writing objects: 100% (5/5)
+2020-10-08T15:13:14-0400 [INFO    ] datalad.gitrepo Writing objects: 100% (5/5), 652 bytes | 652.00 KiB/s, done.
+2020-10-08T15:13:14-0400 [INFO    ] datalad.gitrepo Finished writing objects
+2020-10-08T15:13:14-0400 [INFO    ] datalad.gitrepo Start resolving deltas
+2020-10-08T15:13:14-0400 [INFO    ] datalad.gitrepo remote: Resolving deltas:   0% (0/1)
+2020-10-08T15:13:14-0400 [INFO    ] datalad.gitrepo remote: Resolving deltas: 100% (1/1)
+2020-10-08T15:13:14-0400 [INFO    ] datalad.gitrepo remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+2020-10-08T15:13:16-0400 [INFO    ] datalad.gitrepo Finished
+2020-10-08T15:13:16-0400 [INFO    ] datalad.core.distributed.push Finished push of Dataset(/mnt/backup/dandi/dandiarchive-replica/000025)
